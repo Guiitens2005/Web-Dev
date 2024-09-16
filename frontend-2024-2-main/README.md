@@ -1,4 +1,5 @@
-# frontend 2024/2
+# frontend 2024
 
 ### prof Marcelo Amorim
 
+Guilherme Augusto Caseiro
